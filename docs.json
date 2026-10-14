@@ -122,5 +122,13 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
+  },
+  "errors": {
+    "404": {
+      "redirect": false
+    }
+  },
+  "seo": {
+    "indexing": "all"
   }
 }
